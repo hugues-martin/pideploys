@@ -1,6 +1,4 @@
-=============================================================================
-==  Setting up network for your Pi Cluster  =================================
-=============================================================================
+==  Setting up network for your Pi Cluster  ==
 
 The Ansible playbook main.yml is there to initialize the network for a cluster
 of Raspberry Pis, with static IP addresses.
